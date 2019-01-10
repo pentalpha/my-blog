@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Montagem NGS de Genomas
-tags: [montagem, ngs, genoma, spades, abyss, velvet, fastq, fasta, quast, redundans]
+tags: [montagem, ngs, genoma, spades, abyss, velvet, fastq, fasta, quast, redundans, pt-br]
 ---
 
 # O que é Montagem de Sequências?
